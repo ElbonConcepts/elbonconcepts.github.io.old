@@ -33,7 +33,7 @@ We use the latest technologies to provide the best possible solutions to our cli
 - **C#**: ASP.NET, Entity Framework
 - **JavaScript**: Node.js, React.js
 - **TypeScript**: Angular, Next.js
-- **PHP**: Laravel, WordPress
+- **PHP**: WordPress, Laravel
 - **SQL**: Microsoft SQL Server, MySQL, PostgreSQL
 - **NoSQL**: MongoDB, DynamoDB
 - **Blockchain Development**: Solidity, Ethereum
